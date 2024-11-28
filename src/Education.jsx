@@ -42,7 +42,7 @@ function Education() {
           }}
         >
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px', color: '#5754ff' }}>Elementary</h3>
-          <p style={{ fontSize: '1rem', color: '#333' }}>Tabuco Central School Graduation: March of 2015</p>
+          <p style={{ fontSize: '1rem', color: ''#013220' }}>Tabuco Central School Graduation: March of 2015</p>
 
           <Carousel>
             <Carousel.Item>
