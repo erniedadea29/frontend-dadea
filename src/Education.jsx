@@ -1,5 +1,5 @@
 import React from 'react';
-import Carousel from 'react-bootstrap/Carousel'
+import Carousel from 'react-bootstrap/Carousel';
 
 function Education() {
   return (
@@ -53,6 +53,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
+                  backgroundColor: 'transparent',  // Ensuring no background color is applied
                 }}
               />
               <Carousel.Caption>
@@ -68,6 +69,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
+                  backgroundColor: 'transparent',  // Ensuring no background color is applied
                 }}
               />
               <Carousel.Caption>
@@ -83,6 +85,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
+                  backgroundColor: 'transparent',  // Ensuring no background color is applied
                 }}
               />
               <Carousel.Caption>
@@ -113,6 +116,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
+                  backgroundColor: 'transparent',  // Ensuring no background color is applied
                 }}
               />
               <Carousel.Caption>
@@ -122,4 +126,4 @@ function Education() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QG074m0Fa8C1X62MS57Yt54g0jTemEOP27rDzBEjNP
+                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23
