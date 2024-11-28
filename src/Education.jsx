@@ -119,26 +119,4 @@ function Education() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/385559669_1041920940190140_8208293206348743845_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHF3JGHvbrK7NnwxFzznDUfR0tGGtda4GJHS0Ya11rgYsmZgZ3pO45lVQENHrf0HMyBAvs17lcNlfE_y8WYAWq_&_nc_ohc=szJLJWtBYJQQ7kNvgF7Lw27&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QHOD8CpQ86vCpTm-2pfvzD_7kB3JthFHqPtCnCN20RJdQ&oe=67678F7D"
-                alt="Highschool Image 1"
-                style={{
-                  height: '250px',
-                  objectFit: 'cover',
-                  borderRadius: '10px',
-                  backgroundColor: 'transparent',
-                }}
-              />
-              <Carousel.Caption>
-                <p>Highschool Image 1</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img
-                className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&"
-                alt="Highschool Image 2"
-                style={{
-                  height: '250px',
-                  objectFit: 'cover',
-                  borderRadius: '10px',
-                  backgroundColor: '
+                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/385559669_1041920940190140_8208293206348743845_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHF3JGHvbrK7NnwxFzznDUfR0tGGtda4GJHS0Ya11rgYsmZgZ3pO45lVQEN
