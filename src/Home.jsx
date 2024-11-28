@@ -60,41 +60,7 @@ function Home() {
         </p>
       </div>
 
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          marginTop: '30px', // Increased space for better separation
-        }}
-      >
-        <a
-          href="https://www.facebook.com/ernie.dadea.3"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            display: 'block',
-            width: '60px', // Increased size for the icon
-            height: '60px',
-            borderRadius: '50%',
-            overflow: 'hidden', // Ensure the image stays circular
-            boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)', // Subtle shadow for the icon
-            transition: 'transform 0.3s ease, box-shadow 0.3s ease', // Smooth hover effects
-          }}
-        >
-          <img
-            src="\src\assets\image\X.jpeg"
-            alt="Click here to verify"
-            style={{
-              width: '100%',
-              height: '100%',
-              objectFit: 'cover',
-              borderRadius: '50%',
-              cursor: 'pointer',
-            }}
-          />
-        </a>
-      </div>
+      
 
       {/* Add hover effect on image */}
       <style>
