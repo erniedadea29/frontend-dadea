@@ -8,7 +8,7 @@ function Home() {
         padding: '50px',
         backgroundColor: '#013220',
         width: '100%',
-        height: '100vh', 
+        height: '100vh',
         boxSizing: 'border-box',
       }}
     >
@@ -17,7 +17,7 @@ function Home() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          flexDirection: 'column', 
+          flexDirection: 'column',
         }}
       >
         <img
@@ -26,13 +26,15 @@ function Home() {
           style={{
             width: '200px',
             height: '200px',
-            objectFit: 'cover', 
-            border: '4px solid white', 
-            marginBottom: '10px', 
+            objectFit: 'cover',
+            border: '4px solid white',
+            marginBottom: '10px',
           }}
         />
-        <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center' }}>Ernie Jesus Dadea</h2>
-        <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px' }}>
+        <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center', color: 'white' }}>
+          Ernie Jesus Dadea
+        </h2>
+        <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px', color: 'white' }}>
           Hi! Welcome to my personal website, Feel free to scroll about me!
         </p>
       </div>
@@ -52,9 +54,9 @@ function Home() {
             style={{
               width: '50px',
               height: '50px',
-              objectFit: 'cover', 
-              border: '3px solid white', 
-              cursor: 'pointer', 
+              objectFit: 'cover',
+              border: '3px solid white',
+              cursor: 'pointer',
             }}
           />
         </a>
