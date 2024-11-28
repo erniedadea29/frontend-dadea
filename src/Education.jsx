@@ -103,7 +103,7 @@ function Education() {
           }}
         >
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px', color: '#5754ff' }}>Highschool</h3>
-          <p style={{ fontSize: '1rem', color: '#333' }}>Camarines Sur National Highschool Graduation: May of 2021</p>
+          <p style={{ fontSize: '1rem', color: '#013220' }}>Camarines Sur National Highschool Graduation: May of 2021</p>
 
           <Carousel>
             <Carousel.Item>
