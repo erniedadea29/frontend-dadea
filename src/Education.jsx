@@ -7,7 +7,7 @@ function Education() {
       id="education"
       style={{
         padding: '50px',
-        backgroundColor: '#008080',
+        backgroundColor: '#4682B4',
         fontFamily: 'Arial, sans-serif',
       }}
     >
