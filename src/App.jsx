@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Router>
-        <Navbar expand="lg" style={{ backgroundColor: '#4f524d' }}>
+        <Navbar expand="lg" style={{ backgroundColor: '#60B3D1' }}>
           <Container>
             <Navbar.Brand as={Link} to="/" style={{ color: 'white', fontWeight: 'bold' }}>
               MY PERSONAL INFO
