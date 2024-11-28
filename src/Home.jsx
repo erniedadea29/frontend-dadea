@@ -8,7 +8,7 @@ function Home() {
         padding: '50px',
         backgroundColor: '#013220',
         width: '100%',
-        height: '100vh', 
+        height: '100vh',
         boxSizing: 'border-box',
       }}
     >
@@ -17,7 +17,7 @@ function Home() {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          flexDirection: 'column', 
+          flexDirection: 'column',
         }}
       >
         <img
@@ -26,9 +26,9 @@ function Home() {
           style={{
             width: '200px',
             height: '200px',
-            objectFit: 'cover', 
-            border: '4px solid white', 
-            marginBottom: '10px', 
+            objectFit: 'cover',
+            border: '4px solid white',
+            marginBottom: '10px',
           }}
         />
         <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center' }}>Ernie Jesus Dadea</h2>
@@ -47,14 +47,14 @@ function Home() {
       >
         <a href="https://www.facebook.com/ernie.dadea.3" target="_blank" rel="noopener noreferrer">
           <img
-            src="\src\assets\image\X.jpeg"
+            src="/src/assets/image/X.jpeg"  // Fixed image path (assuming the image exists in the public folder)
             alt="Click here to verify"
             style={{
               width: '50px',
               height: '50px',
-              objectFit: 'cover', 
-              border: '3px solid white', 
-              cursor: 'pointer', 
+              objectFit: 'cover',
+              border: '3px solid white',
+              cursor: 'pointer',
             }}
           />
         </a>
