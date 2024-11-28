@@ -8,7 +8,7 @@ function Hobbies() {
         padding: '50px',
         fontFamily: 'Arial, sans-serif',
         textAlign: 'center',
-        backgroundColor: '#013220',
+        backgroundColor: '#008080',
       }}
     >
       <h2 style={{ fontSize: '2rem', color: '#fcfdff', marginBottom: '30px' }}>Hobbies</h2>
