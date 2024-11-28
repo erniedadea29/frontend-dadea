@@ -7,7 +7,7 @@ function Education() {
       id="education"
       style={{
         padding: '50px',
-        backgroundColor: '#013220',
+        backgroundColor: '#013220', // green background for the section
         fontFamily: 'Arial, sans-serif',
       }}
     >
@@ -32,12 +32,14 @@ function Education() {
           margin: '0 auto',
         }}
       >
+        {/* Elementary Section */}
         <div
           style={{
             padding: '20px',
             borderRadius: '10px',
             boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
             textAlign: 'center',
+            backgroundColor: 'transparent', // Ensure no white background
           }}
         >
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px', color: '#5754ff' }}>Elementary</h3>
@@ -53,7 +55,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
-                  backgroundColor: 'transparent',  // Ensuring no background color is applied
+                  backgroundColor: 'transparent', // Remove any white background from image
                 }}
               />
               <Carousel.Caption>
@@ -69,7 +71,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
-                  backgroundColor: 'transparent',  // Ensuring no background color is applied
+                  backgroundColor: 'transparent', // Remove any white background from image
                 }}
               />
               <Carousel.Caption>
@@ -85,7 +87,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
-                  backgroundColor: 'transparent',  // Ensuring no background color is applied
+                  backgroundColor: 'transparent', // Remove any white background from image
                 }}
               />
               <Carousel.Caption>
@@ -95,12 +97,14 @@ function Education() {
           </Carousel>
         </div>
 
+        {/* Highschool Section */}
         <div
           style={{
             padding: '20px',
             borderRadius: '10px',
             boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
             textAlign: 'center',
+            backgroundColor: 'transparent', // Ensure no white background
           }}
         >
           <h3 style={{ fontSize: '1.5rem', marginBottom: '10px', color: '#5754ff' }}>Highschool</h3>
@@ -116,7 +120,7 @@ function Education() {
                   height: '200px',
                   objectFit: 'cover',
                   borderRadius: '8px',
-                  backgroundColor: 'transparent',  // Ensuring no background color is applied
+                  backgroundColor: 'transparent', // Remove any white background from image
                 }}
               />
               <Carousel.Caption>
@@ -126,4 +130,4 @@ function Education() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23
+                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QG074m0Fa8C1X62MS57Yt54g0jTem
