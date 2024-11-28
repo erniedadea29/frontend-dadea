@@ -6,7 +6,7 @@ function Home() {
       id="about"
       style={{
         padding: '50px',
-        backgroundColor: '#008080', // Teal background
+        backgroundColor: '#000000', // Teal background
         width: '100%',
         height: '100vh',
         boxSizing: 'border-box',
