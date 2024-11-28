@@ -38,15 +38,17 @@ function Contact() {
   return (
     <div style={{ backgroundColor: '#013220', color: 'white', padding: '50px 20px', minHeight: '100vh' }}>
       <Container>
-        <h1 style={{ textAlign: 'center', marginBottom: '30px' }}>Contact Me</h1>
-        <p style={{ textAlign: 'center', marginBottom: '50px' }}>
+        <h1 style={{ textAlign: 'center', marginBottom: '30px', fontWeight: '700' }}>Contact Me</h1>
+        <p style={{ textAlign: 'center', marginBottom: '50px', fontSize: '1.1rem' }}>
           Feel free to reach out to me anytime! Fill out the form below or connect with me on social media.
         </p>
+
         {alert.show && (
           <Alert variant={alert.variant} onClose={() => setAlert({ ...alert, show: false })} dismissible>
             {alert.message}
           </Alert>
         )}
+
         <Row>
           <Col md={6} className="mb-4">
             <h3>Get in Touch</h3>
@@ -62,6 +64,7 @@ function Contact() {
                   required
                 />
               </Form.Group>
+
               <Form.Group controlId="email" className="mb-3">
                 <Form.Label>Your Email</Form.Label>
                 <Form.Control
@@ -73,6 +76,7 @@ function Contact() {
                   required
                 />
               </Form.Group>
+
               <Form.Group controlId="message" className="mb-3">
                 <Form.Label>Message</Form.Label>
                 <Form.Control
@@ -85,20 +89,36 @@ function Contact() {
                   required
                 />
               </Form.Group>
-              <Button variant="primary" type="submit">
+
+              <Button variant="primary" type="submit" style={{ width: '100%' }}>
                 Send Message
               </Button>
             </Form>
           </Col>
+
           <Col md={6}>
             <h3>Connect with Me</h3>
             <p>Follow me on social media for updates and more.</p>
-            <div style={{ fontSize: '24px', display: 'flex', gap: '20px', marginTop: '20px' }}>
+            <div
+              style={{
+                fontSize: '24px',
+                display: 'flex',
+                gap: '20px',
+                marginTop: '20px',
+                justifyContent: 'center',
+              }}
+            >
               <a
                 href="https://www.facebook.com/ernie.dadea.3"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: '#1a57db', textDecoration: 'none' }}
+                style={{
+                  color: '#1a57db',
+                  textDecoration: 'none',
+                  transition: 'transform 0.3s ease',
+                }}
+                onMouseEnter={(e) => (e.target.style.transform = 'scale(1.1)')}
+                onMouseLeave={(e) => (e.target.style.transform = 'scale(1)')}
               >
                 <FaFacebook />
               </a>
@@ -106,13 +126,20 @@ function Contact() {
                 href="https://github.com/dashboard"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: '#f8faf7', textDecoration: 'none' }}
+                style={{
+                  color: '#f8faf7',
+                  textDecoration: 'none',
+                  transition: 'transform 0.3s ease',
+                }}
+                onMouseEnter={(e) => (e.target.style.transform = 'scale(1.1)')}
+                onMouseLeave={(e) => (e.target.style.transform = 'scale(1)')}
               >
                 <FaGithub />
               </a>
             </div>
+
             <Dropdown className="mt-4">
-              <Dropdown.Toggle variant="success" id="dropdown-basic">
+              <Dropdown.Toggle variant="success" id="dropdown-basic" style={{ width: '100%' }}>
                 More Options
               </Dropdown.Toggle>
               <Dropdown.Menu>
@@ -122,11 +149,25 @@ function Contact() {
                 <Dropdown.Item href="/about">About Me</Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
+
             {showContactInfo && (
-              <div style={{ marginTop: '20px', backgroundColor: '#222', padding: '15px', borderRadius: '8px' }}>
+              <div
+                style={{
+                  marginTop: '20px',
+                  backgroundColor: '#222',
+                  padding: '15px',
+                  borderRadius: '8px',
+                  color: '#fff',
+                  boxShadow: '0 4px 8px rgba(0, 0, 0, 0.3)',
+                }}
+              >
                 <h5>Contact Information</h5>
-                <p><strong>Email:</strong> edadea@gbox.ncf.edu.ph</p>
-                <p><strong>Phone:</strong> 09107342528</p>
+                <p>
+                  <strong>Email:</strong> edadea@gbox.ncf.edu.ph
+                </p>
+                <p>
+                  <strong>Phone:</strong> 09107342528
+                </p>
               </div>
             )}
           </Col>
