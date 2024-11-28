@@ -34,7 +34,6 @@ function Education() {
       >
         <div
           style={{
-            backgroundColor: 'white',
             padding: '20px',
             borderRadius: '10px',
             boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
@@ -95,7 +94,6 @@ function Education() {
 
         <div
           style={{
-            backgroundColor: 'white',
             padding: '20px',
             borderRadius: '10px',
             boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
@@ -124,101 +122,4 @@ function Education() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QG074m0Fa8C1X62MS57Yt54g0jTemEOP27rDzBEjNPDaA&oe=676797B5"
-                alt="Highschool 2"
-                style={{
-                  height: '200px',
-                  objectFit: 'cover',
-                  borderRadius: '8px',
-                }}
-              />
-              <Carousel.Caption>
-                <p>Highschool Image 2</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          
-            <Carousel.Item>
-              <img
-                className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467465673_928667892020356_9115596917301806628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG6KQvhTNsVs3_P5ZHR6LtiLMJSAtdlMK4swlIC12UwrowLSLhYiEWp9iBi9f12lhRvQhETYa4swOBs2iLpp9Fo&_nc_ohc=ZgBIyzWoIIkQ7kNvgFzrZCX&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEgZLWf37AFcBHwf3MMsblHlJorC6JR1xBmBUhFubIHfQ&oe=676796CF"
-                alt="High School 3"
-                style={{
-                  height: '200px',
-                  objectFit: 'cover',
-                  borderRadius: '8px',
-                }}
-              />
-              <Carousel.Caption>
-                <p>High School 3</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          </Carousel>
-        </div>
-
-        <div
-          style={{
-            backgroundColor: 'white',
-            padding: '20px',
-            borderRadius: '10px',
-            boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.1)',
-            textAlign: 'center',
-          }}
-        >
-          <h3 style={{ fontSize: '1.5rem', marginBottom: '10px', color: '#5754ff' }}>College</h3>
-          <p style={{ fontSize: '1rem', color: '#333' }}>Naga College Foundation Inc. Graduation: (Unknown)</p>
-
-          <Carousel>
-            <Carousel.Item>
-              <img
-                className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467458716_358634437309042_3018473439349220060_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG--0WMRNL0q3OiyjIQgpzf8JetMyOqqrrwl60zI6qqurDrWPXI3a-UWGTl7ygNpW2ZQsAUwmBRPGQntQmH2Gb6&_nc_ohc=gWkpOauNPFMQ7kNvgEQBk_-&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QFsNGXizMVoljTBPmUSr1vq8_jVcvnC3YGrc3yqk96KcA&oe=6767B3A0"
-                alt="College 1"
-                style={{
-                  height: '200px',
-                  objectFit: 'cover',
-                  borderRadius: '8px',
-                }}
-              />
-              <Carousel.Caption>
-                <p>College Image 1</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-            <Carousel.Item>
-              <img
-                className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467458077_1686108245668553_8391252354241973300_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEFLn8RW6GkD8fr2tmEvZN-Qtvv8YjT951C2-_xiNP3nVY4fiqYYG8FeknVs74v0w9arn5sGbxb619YaEkVHn6-&_nc_ohc=742Cl-CZiwQQ7kNvgH2iH1Y&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEhcN6mvl4GXmjdS2gVWIGRT0IHYaKD9pHotdWXSSNp_w&oe=6767AA0A"
-                alt="College 2"
-                style={{
-                  height: '200px',
-                  objectFit: 'cover',
-                  borderRadius: '8px',
-                }}
-              />
-              <Carousel.Caption>
-                <p>College Image 2</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          
-            <Carousel.Item>
-              <img
-                className="d-block w-100"
-                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467465673_928667892020356_9115596917301806628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG6KQvhTNsVs3_P5ZHR6LtiLMJSAtdlMK4swlIC12UwrowLSLhYiEWp9iBi9f12lhRvQhETYa4swOBs2iLpp9Fo&_nc_ohc=ZgBIyzWoIIkQ7kNvgFzrZCX&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEgZLWf37AFcBHwf3MMsblHlJorC6JR1xBmBUhFubIHfQ&oe=676796CF"
-                alt="College 3"
-                style={{
-                  height: '200px',
-                  objectFit: 'cover',
-                  borderRadius: '8px',
-                }}
-              />
-              <Carousel.Caption>
-                <p>College Image 3</p>
-              </Carousel.Caption>
-            </Carousel.Item>
-          </Carousel>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-export default Education;
+                src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QG074m0Fa8C1X62MS57Yt54g0jTemEOP27rDzBEjNP
