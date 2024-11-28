@@ -6,7 +6,7 @@ function About() {
       id="about"
       style={{
         padding: '70px 20px',
-        background: '#111827', // Dark background
+        background: '#013220', // Dark background
         fontFamily: '"Poppins", sans-serif',
         color: '#F3F4F6',
       }}
