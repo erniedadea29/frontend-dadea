@@ -74,8 +74,7 @@ function About() {
             }}
           >
             <img
-              src="https://scontent.fcrk2-2.fna.fbcdn.net/v/t39.30808-6/466146943_882368107381677_8631814977632440880_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHp4J4YGWB3DbSm7Wk9TWa4CAvD0dGXVGEIC8PR0ZdUYWeUOZHEvEtQC7G49nbTFdNAD2H2Kad6OunS3bH6hUMN&_nc_ohc=68DUNmNVGJQQ7kNvgFK3FEE&_nc_zt=23&_nc_ht=scontent.fcrk2-2.fna&_nc_gid=AtGzcQ7zsExlSV8g25VSNtb&oh=00_AYBfFGY-LGxPQIUcc_q4KFRvM9PTkCX_SAQ8y49AuEe0Kg&oe=67464126"
-              alt="Ernie Jesus Dadea"
+              src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/462573399_1936215176900985_5358501367554795205_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE_-NbEzp4mjFotdcmyV0sWS3DJd5jINERLcMl3mMg0RH-l7XPjESxxHFld2JaAaRS5m869GQplRheCfPOBShwY&_nc_ohc=k1f5iXrvTvMQ7kNvgH-psUh&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QHvIg1oarxfs3UlusWg3IHeSTfDWsbWZedj-VUPC6uO_w&oe=6767A112"
               style={{
                 width: '100%',
                 height: '100%',
