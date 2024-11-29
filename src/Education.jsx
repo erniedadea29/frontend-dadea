@@ -72,14 +72,14 @@ function Education() {
                 }}
               />
               <Carousel.Caption>
-                <p>Elementary Image 3</p>
+                <p>Elementary Image 2</p>
               </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
                 src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467465673_928667892020356_9115596917301806628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG6KQvhTNsVs3_P5ZHR6LtiLMJSAtdlMK4swlIC12UwrowLSLhYiEWp9iBi9f12lhRvQhETYa4swOBs2iLpp9Fo&_nc_ohc=ZgBIyzWoIIkQ7kNvgFzrZCX&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEgZLWf37AFcBHwf3MMsblHlJorC6JR1xBmBUhFubIHfQ&oe=676796CF"
-                alt="Elementary 2"
+                alt="Elementary 3"
                 style={{
                   height: '200px',
                   objectFit: 'cover',
@@ -125,7 +125,7 @@ function Education() {
               <img
                 className="d-block w-100"
                 src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467460289_592701946568002_1882644795066672202_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEMW4eR8EPhBtTtABxlVhW8QxuDube7JBpDG4O5t7skGhks5PNPgCQfMcZ1iUfIzvsZ-n9yu23dFkLekM3icgf8&_nc_ohc=hO0ql58SxycQ7kNvgFBOW4z&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QG074m0Fa8C1X62MS57Yt54g0jTemEOP27rDzBEjNPDaA&oe=676797B5"
-                alt="Highschool 2"
+                alt="Highschool 1"
                 style={{
                   height: '200px',
                   objectFit: 'cover',
@@ -141,7 +141,7 @@ function Education() {
               <img
                 className="d-block w-100"
                 src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467465673_928667892020356_9115596917301806628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG6KQvhTNsVs3_P5ZHR6LtiLMJSAtdlMK4swlIC12UwrowLSLhYiEWp9iBi9f12lhRvQhETYa4swOBs2iLpp9Fo&_nc_ohc=ZgBIyzWoIIkQ7kNvgFzrZCX&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEgZLWf37AFcBHwf3MMsblHlJorC6JR1xBmBUhFubIHfQ&oe=676796CF"
-                alt="High School 2"
+                alt="High School 3"
                 style={{
                   height: '200px',
                   objectFit: 'cover',
@@ -149,7 +149,7 @@ function Education() {
                 }}
               />
               <Carousel.Caption>
-                <p>High School 2</p>
+                <p>High School 3</p>
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
@@ -203,7 +203,7 @@ function Education() {
               <img
                 className="d-block w-100"
                 src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/467465673_928667892020356_9115596917301806628_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeG6KQvhTNsVs3_P5ZHR6LtiLMJSAtdlMK4swlIC12UwrowLSLhYiEWp9iBi9f12lhRvQhETYa4swOBs2iLpp9Fo&_nc_ohc=ZgBIyzWoIIkQ7kNvgFzrZCX&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QEgZLWf37AFcBHwf3MMsblHlJorC6JR1xBmBUhFubIHfQ&oe=676796CF"
-                alt="College 2"
+                alt="College 3"
                 style={{
                   height: '200px',
                   objectFit: 'cover',
@@ -211,7 +211,7 @@ function Education() {
                 }}
               />
               <Carousel.Caption>
-                <p>College Image 2</p>
+                <p>College Image 3</p>
               </Carousel.Caption>
             </Carousel.Item>
           </Carousel>
