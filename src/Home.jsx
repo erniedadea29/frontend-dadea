@@ -31,10 +31,11 @@ function Home() {
             marginBottom: '10px', 
           }}
         />
-        <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center' }}>Ernie Jesus Dadea</h2>
-        <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px' }}>
-          Hi! Welcome to my personal website, Feel free to scroll about me!
-        </p>
+       <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center', color: 'white' }}>Ernie Jesus Dadea</h2>
+<p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px', color: 'white' }}>
+  Hi! Welcome to my personal website, Feel free to scroll about me!
+</p>
+
       </div>
 
       <div
