@@ -6,7 +6,7 @@ function Education() {
     <div
       id="education"
       style={{
-        padding: '500px',
+        padding: '250px',
         backgroundColor: '#0d3634',
         fontFamily: 'Arial, sans-serif',
       }}
