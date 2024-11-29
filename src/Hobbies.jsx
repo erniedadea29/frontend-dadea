@@ -54,7 +54,7 @@ function Hobbies() {
           </div>
         </div>
 
-        <h3 style={{ fontSize: '1.5rem',color: '#fcfdff', marginBottom: '15px' }}>Hobbies</h3>
+        <h3 style={{ fontSize: '1.5rem',color: '#fcfdff', marginBottom: '15px' }}>Skills</h3>
         <div
           style={{
             display: 'flex',
