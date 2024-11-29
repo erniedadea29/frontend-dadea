@@ -25,7 +25,7 @@ function Home() {
           alt="Profile"
           style={{
             width: '1000px',
-            height: '1000px',
+            height: '500px',
             objectFit: 'cover', 
             border: '4px solid white', 
             marginBottom: '10px', 
