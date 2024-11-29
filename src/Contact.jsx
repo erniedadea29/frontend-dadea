@@ -36,7 +36,7 @@ function Contact() {
   };
 
   return (
-    <div style={{ backgroundColor: '#013220', color: 'white', padding: '50px 20px', minHeight: '100vh' }}>
+    <div style={{ backgroundColor: '#0d3634', color: 'white', padding: '50px 20px', minHeight: '100vh' }}>
       <Container>
         <h1 style={{ textAlign: 'center', marginBottom: '30px' }}>Contact Me</h1>
         <p style={{ textAlign: 'center', marginBottom: '50px' }}>
