@@ -5,7 +5,7 @@ function Hobbies() {
     <div
       id="hobbies"
       style={{
-        padding: '50px',
+        padding: '40px',
         fontFamily: 'Arial, sans-serif',
         textAlign: 'center',
         backgroundColor: '#0d3634',
