@@ -37,24 +37,7 @@ function Home() {
         </p>
       </div>
 
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          marginTop: '20px',
-        }}
-      >
-        <a href="https://www.facebook.com/ernie.dadea.3" target="_blank" rel="noopener noreferrer">
-          <img
-            src="\src\assets\image\X.jpeg"
-            alt="Click here to verify"
-            style={{
-              width: '50px',
-              height: '50px',
-              objectFit: 'cover', 
-              border: '3px solid white', 
-              cursor: 'pointer', 
+     
             }}
           />
         </a>
