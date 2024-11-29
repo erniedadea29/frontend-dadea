@@ -5,7 +5,7 @@ function About() {
     <div
       id="about"
       style={{
-        padding: '180px 180px',
+        padding: '100px 180px',
         background: '#0d3634', // Dark background
         fontFamily: '"Poppins", sans-serif',
         color: '#F3F4F6',
