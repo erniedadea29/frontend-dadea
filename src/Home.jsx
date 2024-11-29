@@ -8,7 +8,7 @@ function Home() {
         padding: '50px',
         backgroundColor: '#0d3634',
         width: '100%',
-        height: '80vh', 
+        height: '90vh', 
         boxSizing: 'border-box',
       }}
     >
