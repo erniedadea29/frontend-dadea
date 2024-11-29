@@ -33,7 +33,7 @@ function Home() {
         />
         <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center', color: 'white' }}>Ernie Jesus Dadea</h2>
         <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px', color: 'white' }}>
-          Hi! Welcome to my personal website, Feel free to scroll about me!
+          "Here, I open up about the little moments, big ideas, and everything in between. My goal is to create a space where we can all connect, reflect, and grow together. Through my stories, I hope you find inspiration and a sense of belonging in this ever-evolving world."
         </p>
       </div>
     </div>
