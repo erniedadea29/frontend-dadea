@@ -31,37 +31,35 @@ function Home() {
             marginBottom: '10px', 
           }}
         />
-       <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center', color: 'white' }}>Ernie Jesus Dadea</h2>
-<p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px', color: 'white' }}>
-  Hi! Welcome to my personal website, Feel free to scroll about me!
-</p>
-
-      </div>
-
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          marginTop: '20px',
-        }}
-      >
-        <a href="https://www.facebook.com/ernie.dadea.3" target="_blank" rel="noopener noreferrer">
-          <img
-            src="\src\assets\image\X.jpeg"
-            alt="Click here to verify"
-            style={{
-              width: '50px',
-              height: '50px',
-              objectFit: 'cover', 
-              border: '3px solid white', 
-              cursor: 'pointer', 
-            }}
-          />
-        </a>
+        <h2 style={{ margin: '0', fontSize: '1.5rem', textAlign: 'center', color: 'white' }}>Ernie Jesus Dadea</h2>
+        <p style={{ marginTop: '10px', textAlign: 'center', maxWidth: '600px', color: 'white' }}>
+          Hi! Welcome to my personal website, Feel free to scroll about me!
+        </p>
       </div>
     </div>
   );
 }
 
 export default Home;
+<div
+  style={{
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: '20px',
+  }}
+>
+  <a href="https://www.facebook.com/ernie.dadea.3" target="_blank" rel="noopener noreferrer">
+    <img
+      src="\src\assets\image\X.jpeg"
+      alt="Click here to verify"
+      style={{
+        width: '50px',
+        height: '50px',
+        objectFit: 'cover', 
+        border: '3px solid white', 
+        cursor: 'pointer', 
+      }}
+    />
+  </a>
+</div>
