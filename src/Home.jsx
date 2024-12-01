@@ -24,7 +24,7 @@ function Home() {
           src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/454640708_1294964881888125_9195309958722090499_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGKGNIuIKx1MLo56GTVmLynkvKO-Hn43naS8o74efjediuS_ZYdvuPe0Xug-zAs9TwSFD7um4DNo8B0sYjFSgjh&_nc_ohc=50Cello_W-kQ7kNvgGvunTg&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=A-Q4-p55NG61U8ewyslPmMC&oh=00_AYDAYkWfMDRkQu0KaC5_7xcAHiA6dEQbOKI8-_sUoFcAMQ&oe=67460F5F"
           alt="Profile"
           style={{
-            width: '1000px',
+            width: '800px',
             height: '500px',
             objectFit: 'cover', 
             border: '4px solid white', 
