@@ -21,7 +21,7 @@ function Home() {
         }}
       >
         <img
-          src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/454640708_1294964881888125_9195309958722090499_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGKGNIuIKx1MLo56GTVmLynkvKO-Hn43naS8o74efjediuS_ZYdvuPe0Xug-zAs9TwSFD7um4DNo8B0sYjFSgjh&_nc_ohc=50Cello_W-kQ7kNvgGvunTg&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=A-Q4-p55NG61U8ewyslPmMC&oh=00_AYDAYkWfMDRkQu0KaC5_7xcAHiA6dEQbOKI8-_sUoFcAMQ&oe=67460F5F"
+          src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/462573399_1936215176900985_5358501367554795205_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE_-NbEzp4mjFotdcmyV0sWS3DJd5jINERLcMl3mMg0RH-l7XPjESxxHFld2JaAaRS5m869GQplRheCfPOBShwY&_nc_ohc=k1f5iXrvTvMQ7kNvgH-psUh&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&oh=03_Q7cD1QHvIg1oarxfs3UlusWg3IHeSTfDWsbWZedj-VUPC6uO_w&oe=6767A112"
           alt="Profile"
           style={{
             width: '800px',
