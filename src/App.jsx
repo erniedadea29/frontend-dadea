@@ -13,7 +13,7 @@ import Contact from './Contact';
 function App() {
   return (
     <div>
-      <Router>
+      <Router future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
        <Navbar expand="lg" style={{ backgroundColor: '#579e9b' }}>
           <Container>
             <Navbar.Brand as={Link} to="/" style={{ color: 'white', fontWeight: 'bold' }}>
